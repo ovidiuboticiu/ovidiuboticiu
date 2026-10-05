@@ -37,4 +37,8 @@ My current interests include agent reliability, verification, memory, experiment
 
 ## AI assistance
 
-Some projects are human-led and AI-assisted. Where AI tools materially contributed to methodology, coding, review, analysis, or documentation, the relevant repositories include explicit disclosure and provenance notes.
+Several projects on this profile were developed with substantial AI assistance. AI tools were used for tasks including methodological discussion, protocol design, coding and code review, analysis checks, adversarial critique, and documentation.
+
+**I remain responsible for the research decisions:** selecting the questions to investigate, approving experimental designs, authorizing and executing runs, interpreting the evidence, deciding when a project should stop, and deciding what is published.
+
+Where AI assistance materially affected a project, the repository contains more detailed disclosure and provenance documentation.
