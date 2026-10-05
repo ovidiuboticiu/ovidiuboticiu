@@ -43,6 +43,8 @@ My current interests include agent reliability, verification, memory, experiment
 
 Several projects on this profile were developed with substantial AI assistance. AI tools were used for tasks including methodological discussion, protocol design, coding and code review, analysis checks, adversarial critique, and documentation.
 
+AI outputs were not treated as an automatic source of authority. I reviewed, questioned, and worked through the generated analyses and proposals before making the corresponding research decisions.
+
 **I remain responsible for the research decisions:** selecting the questions to investigate, approving experimental designs, authorizing and executing runs, interpreting the evidence, deciding when a project should stop, and deciding what is published.
 
 Where AI assistance materially affected a project, the repository contains more detailed disclosure and provenance documentation.
