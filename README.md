@@ -9,15 +9,19 @@ My work focuses on controlled experiments, explicit stopping rules, preserved ne
 ## Selected public research
 
 ### [Intra-Agent Evidence Recycling (IAER)](https://github.com/ovidiuboticiu/intra-agent-evidence-recycling)
+**Status:** Paused  
 Tests whether repeated derivative memory from a single source can gain excess behavioral weight in an LLM agent-style system. The main reported effect is deliberately narrow and configuration-specific; later cross-family qualification did not establish generalization.
 
 ### [Verification-Status Overclaiming (VSO)](https://github.com/ovidiuboticiu/verification-status-overclaiming-public)
+**Status:** Closed experimental sequence  
 A reproducible experiment on a specific agent failure: declaring that available evidence is sufficient when a frozen experimental oracle says it is insufficient.
 
 ### [MEES — Minimal Epistemic Ecology Search](https://github.com/ovidiuboticiu/mees-minimal-condition-search)
+**Status:** Completed / archival research release  
 Searches for minimal sufficient conditions, functional substitutions, and behavioral boundaries in artificial ecologies under a bounded query budget. Failed stages and scope limitations are retained alongside successful results.
 
 ### [Order-Necessity Gate](https://github.com/ovidiuboticiu/order-necessity-gate)
+**Status:** Public methodological release (v0.1)  
 A structural test for whether adaptive information-seeking truly requires ordered interaction history, or whether a compressed count-based representation can match the unrestricted optimum.
 
 ## Research principles
