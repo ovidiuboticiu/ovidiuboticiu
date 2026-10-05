@@ -21,7 +21,7 @@ A reproducible experiment on a specific agent failure: declaring that available 
 Searches for minimal sufficient conditions, functional substitutions, and behavioral boundaries in artificial ecologies under a bounded query budget. Failed stages and scope limitations are retained alongside successful results.
 
 ### [Order-Necessity Gate](https://github.com/ovidiuboticiu/order-necessity-gate)
-**Status:** Public methodological release (v0.1)  
+**Status:** Public methodological release  
 A structural test for whether adaptive information-seeking truly requires ordered interaction history, or whether a compressed count-based representation can match the unrestricted optimum.
 
 ## Research principles
