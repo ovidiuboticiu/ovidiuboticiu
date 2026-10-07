@@ -4,6 +4,8 @@
 
 I build small, auditable research artifacts around a practical question: **how can we tell when an AI agent is actually reliable, rather than merely appearing reliable?**
 
+As an independent researcher with limited compute, I use AI tools as a force multiplier while relying on reproducible experiments, adversarial review, deterministic checks, and explicit scope limits to control error.
+
 My work focuses on controlled experiments, explicit stopping rules, preserved negative results, reproducibility, and careful separation between observed behavior and stronger mechanistic claims.
 
 ## Selected public research
